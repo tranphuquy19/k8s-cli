@@ -10,3 +10,5 @@ mv -v ~/k8s-cli-1.0.0/* ~/bin/
 echo 'export PATH=$PATH:$HOME/bin' >> ~/.bashrc
 # And login again
 ```
+OR
+`wget -O https://gist.githubusercontent.com/tranphuquy19/97fc62ee989038cefa758fc6bdd46fcb/raw/1268a8b0b7ef17ee32810bd3564e56d2364c0fef/install-k8s-cli.sh install-k8s-cli.sh && sudo sh install-k8s-cli.sh`
