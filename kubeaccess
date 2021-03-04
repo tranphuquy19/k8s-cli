@@ -1,0 +1,3 @@
+#!/bin/bash
+# kube_access
+kubectl exec --stdin --tty -n $1 $2  -- /bin/bash

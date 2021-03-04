@@ -1,0 +1,3 @@
+#!/bin/bash
+# kubenodes
+kubectl get nodes
