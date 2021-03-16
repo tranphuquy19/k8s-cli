@@ -1,3 +1,4 @@
+cd ~
 yum install -y wget unzip
 wget -O k8s-cli-1.0.0.zip https://github.com/tranphuquy19/k8s-cli/archive/1.0.0.zip
 unzip k8s-cli-1.0.0.zip
