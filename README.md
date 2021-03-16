@@ -12,4 +12,4 @@ echo 'export PATH=$PATH:$HOME/bin' >> ~/.bashrc
 ```
 OR
 
-`wget -O install-k8s-cli.sh https://raw.githubusercontent.com/tranphuquy19/k8s-cli/master/install-k8s-cli.sh && sudo sh install-k8s-cli.sh`
+`cd ~ && wget -O install-k8s-cli.sh https://raw.githubusercontent.com/tranphuquy19/k8s-cli/master/install-k8s-cli.sh && sudo sh install-k8s-cli.sh`
